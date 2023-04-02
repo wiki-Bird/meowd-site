@@ -1,0 +1,49 @@
+:root {
+    font-family: Bowlby One, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    color-scheme: light dark;
+    color: #F0F0EB;
+    background-color: #0f1114;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  a {
+      font-weight: 500;
+      color: #00b6c0;
+      text-decoration: inherit;
+      transition: all 0.25s;
+  }
+  a:hover {
+    color: #00f2ff;
+  }
+
+  
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    font-size: 1.2em;
+    min-height: 100vh;
+  }
+
+  #app {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    padding-top: 0rem;
+    padding-bottom: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
