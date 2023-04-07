@@ -14,7 +14,7 @@
             <a href="/features" class="nav" id="selected">Features</a>
             <a href="/commands" class="nav">Commands</a>
             <a href="/guide" class="nav">Guide</a>
-            <a href="#" class="nav" id="addBtn">Add</a>
+            <a href="https://kwiii.xyz/pagenotfound" class="nav" id="addBtn">Add</a>
         </div>
     </div>
     <div class="mainContent">
