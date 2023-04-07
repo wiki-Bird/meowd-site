@@ -7,7 +7,7 @@
 <main>
     <div class="alignCentre">
         <h1>MEOWD</h1>
-        <h2>Moderation & Fun Discord Bot</h2>
+        <h2>A Discord bot that does the thing</h2>
         <div>
             <a href="/" target="_blank" rel="noreferrer">
             <img src="/lgoo1.png" class="logo" alt="Meowd Logo" />

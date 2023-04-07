@@ -22,7 +22,7 @@
         <br>
         <div class="featureBlocks">
             <div class="featureBlock">
-                <img src="/smartCat.png" class="featureImg leftRow" alt="Meowd Logo" />
+                <img src="/lookDown.png" class="featureImg leftRow" alt="Meowd Logo" />
                 <div class="rightRow">
                     <div class="featureTitle">Moderate your server</div>
                     <div class="featureDisc">Utilise a wide range of moderation tools to keep your server safe and secure. Log events, manage users, view history, and more.</div>
@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="featureBlock">
-                <img src="/think.png" class="featureImg leftRow" alt="Meowd Logo" />
+                <img src="/point.png" class="featureImg leftRow" alt="Meowd Logo" />
                 <div class="rightRow">
                     <div class="featureTitle">Community tools</div>
                     <div class="featureDisc">Keep your server running smoothly with a range of community tools. Run polls, report trolls, clear chats, and more.</div>
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="featureBlock">
-                <img src="/smartCat.png" class="featureImg leftRow" alt="Meowd Logo" />
+                <img src="/wowie.png" class="featureImg leftRow" alt="Meowd Logo" />
                 <div class="rightRow">
                     <div class="featureTitle">Fun :3</div>
                     <div class="featureDisc">Enjoy fun community commands.</div>
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="featureBlock">
-                <img src="/smartCat.png" class="featureImg leftRow" alt="Meowd Logo" />
+                <img src="/thinkwhgite.png" class="featureImg leftRow" alt="Meowd Logo" />
                 <div class="rightRow">
                     <div class="featureTitle">Configurable</div>
                     <div class="featureDisc">Configure the bot to suit your server. Disable commands, set logging channels & server rules, and more.</div>
