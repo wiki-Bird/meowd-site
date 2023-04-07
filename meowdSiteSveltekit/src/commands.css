@@ -1,0 +1,80 @@
+.commandBreak {
+    /* 2 columns, 1 left 1 right */
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 25% 75%;
+    position:relative;
+    top: 0;
+    width: 100%;
+}
+
+.mainContent2 {
+    position: absolute;
+    top: 7em;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 56%;
+}
+
+.commandBoth {
+    background-color: #32353b;
+    padding: 1.5em;
+    position:relative;
+    margin: 1em;
+    border-radius: 12px;
+    margin-top: 2em;
+    font-size: 1em;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+}
+
+.commandTypes {
+    /* left */
+    grid-column: 1;
+    top: 0;
+}
+
+.titleCommands {
+    font-family: Bowlby One, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.commandBlock {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 18% 35% 50%;
+    margin-top: 1.5em;
+}
+
+.commandDesc {
+    padding-left: 1em;
+}
+
+.commandType {
+    /* background-color: #50555f; */
+    margin-bottom: 1em;
+    padding: 0.1em;
+    padding-left: 0.4em;
+    border-radius:3px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.commandType:hover {
+    background-color: #50555f;
+
+}
+
+.commandName {
+    color: #00f2ff;
+}
+
+.selectedCmd {
+    color: #00f2ff;
+}
+
+.commandExample {
+    padding-left: 1em;
+    color: #a1acc0;
+}
