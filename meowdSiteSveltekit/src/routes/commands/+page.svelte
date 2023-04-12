@@ -63,6 +63,11 @@
                         <div class="commandExample commandRow">/report [@user] [reason]</div>
                     </div>
                     <div class="commandBlock">
+                        <div class="commandName commandRow">/embed</div>
+                        <div class="commandDesc commandRow">Create a custom embed.</div>
+                        <div class="commandExample commandRow">/embed [title] [description] [footer] [thumbnail] [image]</div>
+                    </div>
+                    <div class="commandBlock">
                         <div class="commandName commandRow">/whois</div>
                         <div class="commandDesc commandRow">Information about a user's account.</div>
                         <div class="commandExample commandRow">/whois [@user]</div>
@@ -73,7 +78,13 @@
                         <div class="commandName commandRow">/otter</div>
                         <div class="commandDesc commandRow">Get a cute otter picture.</div>
                         <div class="commandExample commandRow">/otter [number]</div>
-                    </div>`
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/imgedit</div>
+                        <div class="commandDesc commandRow">Edit an image</div>
+                        <div class="commandExample commandRow">/imgedit [@user/attachment/blank] [editType] [text]</div>
+                    </div>
+                    `
         },
         {name: "Info", content: `
                     <div class="commandBlock">
@@ -161,7 +172,7 @@
             <a href="/features" class="nav">Features</a>
             <a href="/commands" class="nav" id="selected">Commands</a>
             <a href="/guide" class="nav">Guide</a>
-            <a href="https://kwiii.xyz/pagenotfound" class="nav" id="addBtn">Add</a>
+            <a href="https://discord.com/oauth2/authorize?client_id=1086188667678244955&scope=bot&permissions=8" class="nav" id="addBtn">INVITE</a>
         </div>
     </div>
     <div class="mainContent2">
@@ -169,6 +180,9 @@
         <div class="commandBreak">
 
             <div class="commandTypes commandBoth">
+                <div class="titleCommands">
+                    Groups
+                </div>
                 {#each options as option}
                     {#if selectedOption === option}
                         <!-- svelte-ignore a11y-click-events-have-key-events -->

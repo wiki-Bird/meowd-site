@@ -14,7 +14,7 @@
             <a href="/features" class="nav" id="selected">Features</a>
             <a href="/commands" class="nav">Commands</a>
             <a href="/guide" class="nav">Guide</a>
-            <a href="https://kwiii.xyz/pagenotfound" class="nav" id="addBtn">Add</a>
+            <a href="https://discord.com/oauth2/authorize?client_id=1086188667678244955&scope=bot&permissions=8" class="nav" id="addBtn">INVITE</a>
         </div>
     </div>
     <div class="mainContent">
@@ -26,14 +26,15 @@
                 <div class="rightRow">
                     <div class="featureTitle">Moderate your server</div>
                     <div class="featureDisc">Utilise a wide range of moderation tools to keep your server safe and secure. Log events, manage users, view history, and more.</div>
-                    <div class="commandTags">
+                    <a href="/commands"><div class="commandTags">
                         <span class="tagText">eg:</span>
                         <div class="commandTag">/mute</div>
                         <div class="commandTag">/ban</div>
                         <div class="commandTag">/kick</div>
                         <div class="commandTag">/warn</div>
                         <div class="commandTag">/modlogs</div>
-                    </div>
+                        
+                    </div></a>
                 </div>
             </div>
             <div class="featureBlock">
@@ -41,13 +42,13 @@
                 <div class="rightRow">
                     <div class="featureTitle">Community tools</div>
                     <div class="featureDisc">Keep your server running smoothly with a range of community tools. Run polls, report trolls, clear chats, and more.</div>
-                    <div class="commandTags">
+                    <a href="/commands"><div class="commandTags">
                         <span class="tagText">eg:</span>
                         <div class="commandTag">/purge</div>
                         <div class="commandTag">/poll</div>
                         <div class="commandTag">/report</div>
                         <div class="commandTag">/whois</div>
-                    </div>
+                    </div></a>
                 </div>
             </div>
             <div class="featureBlock">
@@ -55,10 +56,11 @@
                 <div class="rightRow">
                     <div class="featureTitle">Fun :3</div>
                     <div class="featureDisc">Enjoy fun community commands.</div>
-                    <div class="commandTags">
+                    <a href="/commands"><div class="commandTags">
                         <span class="tagText">eg:</span>
                         <div class="commandTag">/otter</div>
-                    </div>
+                        <div class="commandTag">/imgedit</div>
+                    </div></a>
                 </div>
             </div>
             <div class="featureBlock">
@@ -66,10 +68,10 @@
                 <div class="rightRow">
                     <div class="featureTitle">Configurable</div>
                     <div class="featureDisc">Configure the bot to suit your server. Disable commands, set logging channels & server rules, and more.</div>
-                    <div class="commandTags">
+                    <a href="/commands"><div class="commandTags">
                         <span class="tagText">eg:</span>
                         <div class="commandTag">/config</div>
-                    </div>
+                    </div></a>
                 </div>
             </div>
         </div>
