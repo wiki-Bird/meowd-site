@@ -36,7 +36,7 @@
 
 .titleCommands {
     font-family: Bowlby One, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     margin-bottom: 1em;
 }
 
@@ -45,10 +45,15 @@
     grid-template-rows: 1fr;
     grid-template-columns: 18% 35% 50%;
     margin-top: 1.5em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #50555f;
 }
 
 .commandDesc {
     padding-left: 1em;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
 }
 
 .commandType {
@@ -68,6 +73,8 @@
 
 .commandName {
     color: #00f2ff;
+    display: flex;
+    align-items: center;
 }
 
 .selectedCmd {
@@ -77,4 +84,9 @@
 .commandExample {
     padding-left: 1em;
     color: #a1acc0;
+    font-size: 0.9em;
+    /* vertically align */
+    display: flex;
+    align-items: center;
+
 }
