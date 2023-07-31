@@ -84,6 +84,11 @@
                         <div class="commandDesc commandRow">Edit an image</div>
                         <div class="commandExample commandRow">/imgedit [@user/attachment/blank] [editType] [text]</div>
                     </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/stats</div>
+                        <div class="commandDesc commandRow">Get videogame stats</div>
+                        <div class="commandExample commandRow">/stats [game] [battletag]</div>
+                    </div>
                     `
         },
         {name: "Info", content: `
