@@ -34,6 +34,10 @@ h2 {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.img404 {
+  height: 20%;
+}
+
 #invite {
   border-color: #ffc400;
 }
