@@ -48,6 +48,7 @@
                         <div class="commandTag">/poll</div>
                         <div class="commandTag">/report</div>
                         <div class="commandTag">/whois</div>
+                        <div class="commandTag">/convert</div>
                     </div></a>
                 </div>
             </div>
@@ -61,6 +62,7 @@
                         <div class="commandTag">/otter</div>
                         <div class="commandTag">/imgedit</div>
                         <div class="commandTag">/stats</div>
+                        <div class="commandTag">/roll</div>
                     </div></a>
                 </div>
             </div>

@@ -55,12 +55,17 @@
                     <div class="commandBlock">
                         <div class="commandName commandRow">/poll</div>
                         <div class="commandDesc commandRow">Set up community polls.</div>
-                        <div class="commandExample commandRow">/poll [title] [option1, option2]</div>
+                        <div class="commandExample commandRow">/poll [title] [option1, option2...]</div>
                     </div>
                     <div class="commandBlock">
                         <div class="commandName commandRow">/report</div>
                         <div class="commandDesc commandRow">Report a user to the mods.</div>
                         <div class="commandExample commandRow">/report [@user] [reason]</div>
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/convert time</div>
+                        <div class="commandDesc commandRow">Convert between different timezones.</div>
+                        <div class="commandExample commandRow">/convert time [from] [to]</div>
                     </div>
                     <div class="commandBlock">
                         <div class="commandName commandRow">/embed</div>
@@ -83,6 +88,16 @@
                         <div class="commandName commandRow">/imgedit</div>
                         <div class="commandDesc commandRow">Edit an image</div>
                         <div class="commandExample commandRow">/imgedit [@user/attachment/blank] [editType] [text]</div>
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/roll simple</div>
+                        <div class="commandDesc commandRow">Roll some die</div>
+                        <div class="commandExample commandRow">/roll simple [max] [count] [modifier]</div>
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/roll advanced</div>
+                        <div class="commandDesc commandRow">Roll some die, advancedly</div>
+                        <div class="commandExample commandRow">/roll advanced [formula]</div>
                     </div>
                     <div class="commandBlock">
                         <div class="commandName commandRow">/stats</div>
