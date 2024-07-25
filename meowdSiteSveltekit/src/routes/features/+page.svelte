@@ -61,8 +61,10 @@
                         <span class="tagText">eg:</span>
                         <div class="commandTag">/otter</div>
                         <div class="commandTag">/imgedit</div>
+                        <div class="commandTag">/funnyfont</div>
                         <div class="commandTag">/stats</div>
                         <div class="commandTag">/roll</div>
+                        <div class="commandTag">starboard reactions</div>
                     </div></a>
                 </div>
             </div>

@@ -104,6 +104,11 @@
                         <div class="commandDesc commandRow">Get videogame stats</div>
                         <div class="commandExample commandRow">/stats [game] [battletag]</div>
                     </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/funnyfont</div>
+                        <div class="commandDesc commandRow">Change text into a funny font</div>
+                        <div class="commandExample commandRow">/funnyfont [text] [font]</div>
+                    </div>
                     `
         },
         {name: "Info", content: `
@@ -156,6 +161,27 @@
                         <div class="commandName commandRow">/config logchannel</div>
                         <div class="commandDesc commandRow">Set the logging channel.</div>
                         <div class="commandExample commandRow">/config logchannel [#channel]</div>
+                    </div>
+
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/config starboard toggle</div>
+                        <div class="commandDesc commandRow">Toggle starboard on/off</div>
+                        <div class="commandExample commandRow">/config starboard</div>
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/config starboard updatechannel</div>
+                        <div class="commandDesc commandRow">Set starboard channel.</div>
+                        <div class="commandExample commandRow">/config starboard updatechannel [#channel]</div>
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/config starboard updateemoji</div>
+                        <div class="commandDesc commandRow">Set starboard react.</div>
+                        <div class="commandExample commandRow">/config starboard updatechannel [emoji]</div>
+                    </div>
+                    <div class="commandBlock">
+                        <div class="commandName commandRow">/config starboard updateminstars</div>
+                        <div class="commandDesc commandRow">Set the min number of reacts.</div>
+                        <div class="commandExample commandRow">/config starboard updateminstars [number]</div>
                     </div>
                     `
         },

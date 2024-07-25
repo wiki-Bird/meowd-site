@@ -9,7 +9,7 @@
         <h1>MEOWD</h1>
         <h2>Your powerful, customisable Discord bot.</h2>
         <div>
-            <a href="/" target="_blank" rel="noreferrer">
+            <a href="#" target="_blank" rel="noreferrer">
             <img src="/lgoo1.png" class="logo" alt="Meowd Logo" />
             </a>
         </div>
