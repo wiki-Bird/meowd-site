@@ -64,7 +64,7 @@
                         <div class="commandTag">/funnyfont</div>
                         <div class="commandTag">/stats</div>
                         <div class="commandTag">/roll</div>
-                        <div class="commandTag">starboard reactions</div>
+                        <div class="commandTag">starboard</div>
                     </div></a>
                 </div>
             </div>
